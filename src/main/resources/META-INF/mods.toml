@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+[[mods]]
+modId="additiveores"
+version="${file.jarVersion}"
+displayName="AdditiveOres"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Tehcn"
+description='''
+Mod by Tehcn.
+
+Adds ores...
+'''
+[[dependencies.additiveores]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.additiveores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

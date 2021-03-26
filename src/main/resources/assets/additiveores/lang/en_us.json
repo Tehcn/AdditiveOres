@@ -1,0 +1,9 @@
+{
+  "item.additiveores.staff": "Staff",
+  "item.additiveores.mithril_ingot": "Mithril Ingot",
+
+  "block.additiveores.mithril_ore": "Mithril Ore",
+  "block.additiveores.quarry": "Quarry",
+
+  "itemGroup.additiveores": "AdditiveOres"
+}

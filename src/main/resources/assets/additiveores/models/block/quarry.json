@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "quarry_top",
+    "bottom": "quarry_bottom",
+    "front": "quarry_front",
+    "side": "quarry_side"
+  }
+}
